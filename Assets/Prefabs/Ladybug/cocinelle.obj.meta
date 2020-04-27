@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: f676641e8929141fcb120a91c39da3eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Neutre_1_Cube_2
+    100004: Neutre_1_Cube_3_Cube_31
+    100006: Neutre_1_Cube_4_Cube_41
+    100008: Neutre_1_Cube_7_Cube_71
+    100010: Neutre_1_Cube_Cube1
+    100012: Neutre_1_Neutre_Cube2_Cube3
+    100014: Neutre_1_Neutre_Cube_1_Cube_11
+    100016: Neutre_1_Neutre_Cube_32_Cube_33
+    100018: Neutre_1_Neutre_Cube_42_Cube_43
+    100020: Neutre_1_Neutre_Cube_5_Cube_51
+    100022: Neutre_1_Neutre_Cube_6_Cube_61
+    400000: //RootNode
+    400002: Neutre_1_Cube_2
+    400004: Neutre_1_Cube_3_Cube_31
+    400006: Neutre_1_Cube_4_Cube_41
+    400008: Neutre_1_Cube_7_Cube_71
+    400010: Neutre_1_Cube_Cube1
+    400012: Neutre_1_Neutre_Cube2_Cube3
+    400014: Neutre_1_Neutre_Cube_1_Cube_11
+    400016: Neutre_1_Neutre_Cube_32_Cube_33
+    400018: Neutre_1_Neutre_Cube_42_Cube_43
+    400020: Neutre_1_Neutre_Cube_5_Cube_51
+    400022: Neutre_1_Neutre_Cube_6_Cube_61
+    2100000: Neutre_1_Cube_2Mat
+    2100002: Neutre_1_Cube_3_Cube_31Mat
+    2100004: Neutre_1_Cube_4_Cube_41Mat
+    2100006: Neutre_1_Cube_7_Cube_71Mat
+    2100008: Neutre_1_Cube_Cube1Mat
+    2100010: Neutre_1_Neutre_Cube2_Cube3Mat
+    2100012: Neutre_1_Neutre_Cube_1_Cube_11Mat
+    2100014: Neutre_1_Neutre_Cube_32_Cube_33Mat
+    2100016: Neutre_1_Neutre_Cube_42_Cube_43Mat
+    2100018: Neutre_1_Neutre_Cube_5_Cube_51Mat
+    2100020: Neutre_1_Neutre_Cube_6_Cube_61Mat
+    2300000: Neutre_1_Cube_2
+    2300002: Neutre_1_Cube_3_Cube_31
+    2300004: Neutre_1_Cube_4_Cube_41
+    2300006: Neutre_1_Cube_7_Cube_71
+    2300008: Neutre_1_Cube_Cube1
+    2300010: Neutre_1_Neutre_Cube2_Cube3
+    2300012: Neutre_1_Neutre_Cube_1_Cube_11
+    2300014: Neutre_1_Neutre_Cube_32_Cube_33
+    2300016: Neutre_1_Neutre_Cube_42_Cube_43
+    2300018: Neutre_1_Neutre_Cube_5_Cube_51
+    2300020: Neutre_1_Neutre_Cube_6_Cube_61
+    3300000: Neutre_1_Cube_2
+    3300002: Neutre_1_Cube_3_Cube_31
+    3300004: Neutre_1_Cube_4_Cube_41
+    3300006: Neutre_1_Cube_7_Cube_71
+    3300008: Neutre_1_Cube_Cube1
+    3300010: Neutre_1_Neutre_Cube2_Cube3
+    3300012: Neutre_1_Neutre_Cube_1_Cube_11
+    3300014: Neutre_1_Neutre_Cube_32_Cube_33
+    3300016: Neutre_1_Neutre_Cube_42_Cube_43
+    3300018: Neutre_1_Neutre_Cube_5_Cube_51
+    3300020: Neutre_1_Neutre_Cube_6_Cube_61
+    4300000: Neutre_1_Cube_2
+    4300002: Neutre_1_Cube_3_Cube_31
+    4300004: Neutre_1_Cube_4_Cube_41
+    4300006: Neutre_1_Cube_7_Cube_71
+    4300008: Neutre_1_Cube_Cube1
+    4300010: Neutre_1_Neutre_Cube2_Cube3
+    4300012: Neutre_1_Neutre_Cube_1_Cube_11
+    4300014: Neutre_1_Neutre_Cube_32_Cube_33
+    4300016: Neutre_1_Neutre_Cube_42_Cube_43
+    4300018: Neutre_1_Neutre_Cube_5_Cube_51
+    4300020: Neutre_1_Neutre_Cube_6_Cube_61
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
